@@ -16,6 +16,7 @@ export const Navbar = () => {
             <button className="btn btn-secondary ml-2">Contact List</button>
           </Link>
         </div>
+      <button>x</button>
       </div>
     </nav>
   );
